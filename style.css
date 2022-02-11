@@ -1,0 +1,157 @@
+footer{
+    background-color: #f2f2f2;
+    position: absolute;
+    width: 100%;
+    line-height: 20px;
+}
+body{
+    margin-right: 0;
+    margin-left: 0;
+   padding: 0;
+   width: 100%
+}
+
+.d-flex{
+    display: flex;
+}
+.m-auto{
+    margin: auto;
+}
+.align-c{
+   align-items: center;
+}
+.name{
+    margin-top: 10px;
+    width: 35%;
+    margin-bottom: 10px;
+}
+.pe{
+    margin-right: 20px;
+}
+.m-top{
+    margin-top: 150px;
+}
+.header-2{
+    background-color: #f2f2f2;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+.t-c{
+    text-align: center;
+}
+.mr{
+  margin-right: 20px;
+}
+.ml{
+   margin-right: 20px;
+margin-left: 44%;
+}
+.mb{
+    margin-bottom: 240px;
+}
+.sb{
+   height: 20px;
+   align-self: center;
+}
+.mb-2{
+    margin-left: 37%;
+    margin-right: 20px;
+}
+.ssp{
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+.sp{
+    height: 20px;
+    width: 300px;
+    align-self: center;
+}
+.header-1{
+    background-color: #f2f2f2;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    height: 50px;
+}
+.pp{
+    margin-left: 5px;
+}
+.d-f-c{
+    display: flex;
+    flex-direction: column;
+}
+.w{
+    width: 25px;
+    border-radius: 50%;
+    margin-left: 50%;
+    margin-right: 10px;
+}
+.container{
+    width: 50%;
+    background-color: #fbfbfb;
+}
+.se{
+    justify-content: space-evenly;
+}
+.tg{
+    color: green;
+    margin-left: 5px;
+}
+.tr{
+    color: gray;
+}
+.fz-5{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.tb{
+    color: blue;
+}
+.m-b-5{
+    margin-bottom: 0;
+}
+.container-7{
+    background-color: azure;
+    border: black solid 1px;
+}
+.mll{
+    margin-left: 5px;
+}
+.bb{
+    width: 40px;
+    height: 40px;
+}
+.mlll{
+    margin-left: 41%;
+}
+#s-image{
+    border-radius: 50%;
+   height: 40px;
+  }
+  footer{
+      background-color: #271f1f57;
+      text-align: center;
+      margin-bottom: 0;
+  }
+  .g-p-m{
+      margin-top: 1%;
+  }
+  .c-o-p{
+   color: rgba(39, 31, 31, 0.342);
+  }
+  .m-l{
+      margin-left: 48%;
+  }
+  .container-10{
+      background-color: azure;
+    width: 20%;
+  }
+  .ssjj{
+          justify-content: space-evenly;
+      }
+  
